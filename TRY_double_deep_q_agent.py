@@ -198,3 +198,5 @@ if __name__ == "__main__":
     ddql_avg_slippage = sum(ddql_slippage) / len(ddql_slippage)
     print(f"DDQL Average Execution Price: {ddql_avg_price:.2f}")
     print(f"DDQL Average Slippage: {ddql_avg_slippage:.2f}%")
+
+ ## Check
